@@ -5,5 +5,5 @@ To generate file to vendor:
 1. download json file from above URL
 2. save file to src/licenses.json
 3. run mix export
-4. copy /spdx_list.exs to vendored location
+4. copy /hex_licenses.erl to vendored location
 
